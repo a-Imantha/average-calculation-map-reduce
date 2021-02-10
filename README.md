@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="9iGF2d-0dTzuyllpYIxsnOqeSgKqRcACiSDgdXGYO9U" />
 # Average Calculation Problem with Mapreduce Approach
 
 This is an example program to calculate the average of a list of numbers using Mapreduce inside hadoop framework.
